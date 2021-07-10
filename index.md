@@ -16,6 +16,6 @@ I have carried out research, development and deployment of ML models and NLP, as
 
 Broad research areas I'm interested in and have experience are Deep Learning, Natural Language Processing, Information Retrieval, and Named Entity Recognition and Disambiguation.
 
-*Contact me at <span style="white-space:nowrap">lacerda (at) cs.toronto.edu</span>*
+*Contact me at <span style="white-space:nowrap"> my-first-name (at) lacerda.ch</span>*
 
 View my resumé [\[PDF\]](../docs/Rafael_Lacerda_CV.pdf) [\[DOC\]](../docs/Rafael_Lacerda_CV.docx)
