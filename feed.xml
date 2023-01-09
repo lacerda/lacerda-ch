@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <generator uri="http://jekyllrb.com" version="3.8.7">Jekyll</generator>
+  
+  
+  <link href="https://blog.lacerda.ch/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://blog.lacerda.ch/" rel="alternate" type="text/html" hreflang="en" />
+  <updated>2023-01-08T21:46:28-05:00</updated>
+  <id>https://blog.lacerda.ch//</id>
+
+  
+    <title type="html">Rafael Lacerda</title>
+  
+
+  
+    <subtitle>Data Science, Natural Language, Research.</subtitle>
+  
+
+  
+    <author>
+        <name>Rafael Lacerda</name>
+      
+      
+    </author>
+  
+
+  
+</feed>
